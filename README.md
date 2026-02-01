@@ -12,3 +12,7 @@ HTML5, CSS3, JavaScript
 
 ##  Purpose
 To practice real-world UI cloning and responsive frontend development.
+
+
+<img width="1765" height="897" alt="image" src="https://github.com/user-attachments/assets/4498359e-3b2d-40b1-b5ea-dd16022c26c9" />
+
